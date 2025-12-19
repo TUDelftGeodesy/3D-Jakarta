@@ -31,4 +31,4 @@ To generate the displacement velocity vectors including error ellipses, you need
 
 * A set of estimated displacement parameters including 6 variance and covariance values.
 
-An example set of parameters is available through 4TU.ResearchData, with DOI: {UPDATE}. Users can download the data and the metadata from that repository to plot the corresponding displacement vectors using this repository.
+An example set of parameters is available through 4TU.ResearchData, with [![DOI](https://data.4tu.nl/v3/datasets/22215562/doi-badge.svg)](https://doi.org/10.4121/39e7a39c-d305-425f-b238-1f3a4271dda9). Users can download the data and the metadata from that repository to plot the corresponding displacement vectors using this repository.
