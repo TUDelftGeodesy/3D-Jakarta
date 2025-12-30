@@ -4,7 +4,9 @@ A Python implementation to load and visualize 3D displacement velocity vectors, 
 
 ## Reference
 
-*(Include your reference or publication here)*
+Lapadat et al. (2025), *Land subsidence in Jakarta in three dimensions (2014–2025)*,  
+EarthArXiv preprint, submitted to *Remote Sensing of Environment* (Elsevier).  
+https://doi.org/10.31223/X5R45H
 
 ## Requirements
 
